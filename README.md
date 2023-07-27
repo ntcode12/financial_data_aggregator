@@ -16,10 +16,10 @@ This project showcases the ability to conduct intricate ETL processes and data a
 
 In addition to these core components, the project includes various helper functions like 'get_current_time' for time formatting and 'get_logger' for efficient logging throughout the script.
 
-## Conclusion
+
 
 In summary, the Financial Data Aggregator project represents proficiency in developing complex ETL operations and data analysis using Python. The modular and extensible design effectively streamlines data processing and analysis, demonstrating the ability to create efficient and robust data solutions.
 
 
-Technology Stack: Python, Google Cloud SQL, SQLlite Alpha Vantage API, BeatifulSoup, TextBlob
+**Technology Stack**: Python, Google Cloud SQL, SQLlite Alpha Vantage API, BeatifulSoup, TextBlob
 
